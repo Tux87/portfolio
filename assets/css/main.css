@@ -2554,6 +2554,15 @@ input, select, textarea {
 		width: 100%;
 	}
 
+		.features p {
+			color: #fff;
+			font-family: "Open Sans", Helvetica, sans-serif;
+			font-size: 12pt;
+			font-weight: 400;
+			letter-spacing: 0.1em;
+			line-height: 1.70em;
+		}
+
 		.features li {
 			padding: 2em 4em 2em 6em ;
 			display: block;
@@ -2607,7 +2616,7 @@ input, select, textarea {
 				color: #00ffcc;
 				position: absolute;
 				left: 0.5em;
-				top: 1.5em;
+				top: 0.5em;
 				font-size: 3em;
 			}
 
